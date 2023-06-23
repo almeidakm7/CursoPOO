@@ -1,0 +1,15 @@
+C:\Users\almei\source\repos\TarefaCurso1\TarefaCurso1\bin\Debug\net7.0\TarefaCurso1.exe
+C:\Users\almei\source\repos\TarefaCurso1\TarefaCurso1\bin\Debug\net7.0\TarefaCurso1.deps.json
+C:\Users\almei\source\repos\TarefaCurso1\TarefaCurso1\bin\Debug\net7.0\TarefaCurso1.runtimeconfig.json
+C:\Users\almei\source\repos\TarefaCurso1\TarefaCurso1\bin\Debug\net7.0\TarefaCurso1.dll
+C:\Users\almei\source\repos\TarefaCurso1\TarefaCurso1\bin\Debug\net7.0\TarefaCurso1.pdb
+C:\Users\almei\source\repos\TarefaCurso1\TarefaCurso1\obj\Debug\net7.0\TarefaCurso1.csproj.AssemblyReference.cache
+C:\Users\almei\source\repos\TarefaCurso1\TarefaCurso1\obj\Debug\net7.0\TarefaCurso1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almei\source\repos\TarefaCurso1\TarefaCurso1\obj\Debug\net7.0\TarefaCurso1.AssemblyInfoInputs.cache
+C:\Users\almei\source\repos\TarefaCurso1\TarefaCurso1\obj\Debug\net7.0\TarefaCurso1.AssemblyInfo.cs
+C:\Users\almei\source\repos\TarefaCurso1\TarefaCurso1\obj\Debug\net7.0\TarefaCurso1.csproj.CoreCompileInputs.cache
+C:\Users\almei\source\repos\TarefaCurso1\TarefaCurso1\obj\Debug\net7.0\TarefaCurso1.dll
+C:\Users\almei\source\repos\TarefaCurso1\TarefaCurso1\obj\Debug\net7.0\refint\TarefaCurso1.dll
+C:\Users\almei\source\repos\TarefaCurso1\TarefaCurso1\obj\Debug\net7.0\TarefaCurso1.pdb
+C:\Users\almei\source\repos\TarefaCurso1\TarefaCurso1\obj\Debug\net7.0\TarefaCurso1.genruntimeconfig.cache
+C:\Users\almei\source\repos\TarefaCurso1\TarefaCurso1\obj\Debug\net7.0\ref\TarefaCurso1.dll
